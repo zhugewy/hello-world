@@ -1,2 +1,3 @@
 # hello-world
 The first step from material science engineer to COMPUTER SCIENCE!!!!!!
+Hi guys, I spent a lot of time struggling whether to stay on the subject I don't like or to be on my mettle to transfer to computer science.   I finally decided to transfer from material science to computer science, even though it's a hard decision, but I made the decision both for my interests for logic and a better life in future. Daily rountines in the lad craked out my health and logical thinking ability without leading to a bright furture. Hope to reborn by hardworking on what I really interested in and hope to show you the growth of my coding skills.
